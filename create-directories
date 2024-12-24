@@ -1,0 +1,4 @@
+mkdir -p docs/{backend,database,javascript,typescript,system-design,algorithms}
+mkdir -p exercises/{backend,database,javascript,typescript,algorithms}
+mkdir -p projects/{microservices-demo,auth-service,api-gateway}
+mkdir -p sandbox 

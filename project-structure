@@ -1,0 +1,19 @@
+fullstack-playground/
+├── docs/                      # Documentation and learning materials
+│   ├── backend/
+│   ├── database/
+│   ├── javascript/
+│   ├── typescript/
+│   ├── system-design/
+│   └── algorithms/
+├── exercises/                 # Practical exercises and their solutions
+│   ├── backend/
+│   ├── database/
+│   ├── javascript/
+│   ├── typescript/
+│   └── algorithms/
+├── projects/                  # Real-world project implementations
+│   ├── microservices-demo/   # Multi-service architecture example
+│   ├── auth-service/         # Authentication implementation
+│   └── api-gateway/          # API Gateway implementation
+└── sandbox/                   # Quick experiments and tests 
